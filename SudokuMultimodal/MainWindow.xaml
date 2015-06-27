@@ -1,0 +1,21 @@
+﻿<Window x:Class="SudokuMultimodal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sudoku - Nacho Miralles" Height="470" Width="600" MinWidth="600" MinHeight="470">
+    <Viewbox Stretch="Uniform" Margin="10">
+        <DockPanel>
+            <Grid Name="numerosGrid" DockPanel.Dock="Bottom" />
+            <Grid Name="mainGrid" DockPanel.Dock="Left" Width="{Binding ElementName=mainGrid, Path=ActualHeight}"/>
+            <StackPanel DockPanel.Dock="Right" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                <Button FontSize="120" Margin="40,10,0,10" Click="botónNuevoClick">Nuevo</Button>
+                <Button FontSize="120" Margin="40,10,0,10" Click="botónReiniciarClick">Reiniciar</Button>
+                <CheckBox FontSize="15" Margin="10,10,0,10" Click="checkboxVerPosiblesClick">
+                    <CheckBox.LayoutTransform>
+                        <ScaleTransform ScaleX="6" ScaleY="6"></ScaleTransform>
+                    </CheckBox.LayoutTransform>
+                    Ver posibles
+                </CheckBox>
+            </StackPanel>
+        </DockPanel>
+    </Viewbox>
+</Window>

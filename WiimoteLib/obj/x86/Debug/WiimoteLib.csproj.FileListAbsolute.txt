@@ -1,0 +1,5 @@
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiimoteLib\bin\x86\Debug\WiimoteLib.dll
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiimoteLib\bin\x86\Debug\WiimoteLib.pdb
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiimoteLib\obj\x86\Debug\WiimoteLib.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiimoteLib\obj\x86\Debug\WiimoteLib.dll
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiimoteLib\obj\x86\Debug\WiimoteLib.pdb

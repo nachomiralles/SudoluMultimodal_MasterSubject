@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuMultimodal", "SudokuMultimodal\SudokuMultimodal.csproj", "{5C502226-8B6D-4109-8E95-99AC3DA92D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiimoteLib", "WiimoteLib\WiimoteLib.csproj", "{37A555DF-7012-4B99-8A47-1C922A361E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiiGestureLib", "WiiGestureLib\WiiGestureLib.csproj", "{27C68E4E-72F5-425F-9668-E74C4B8995EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiimoteTest", "WiimoteTest\WiimoteTest.csproj", "{48223EAB-B2E0-4A64-9074-4444662EB693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug MSRS|x86 = Debug MSRS|x86
+		Debug|x86 = Debug|x86
+		MSRS Debug|x86 = MSRS Debug|x86
+		Release MSRS|x86 = Release MSRS|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Debug MSRS|x86.ActiveCfg = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Debug MSRS|x86.Build.0 = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Debug|x86.ActiveCfg = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Debug|x86.Build.0 = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.MSRS Debug|x86.ActiveCfg = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.MSRS Debug|x86.Build.0 = Debug|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Release MSRS|x86.ActiveCfg = Release|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Release MSRS|x86.Build.0 = Release|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Release|x86.ActiveCfg = Release|x86
+		{5C502226-8B6D-4109-8E95-99AC3DA92D4D}.Release|x86.Build.0 = Release|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Debug MSRS|x86.ActiveCfg = Debug MSRS|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Debug MSRS|x86.Build.0 = Debug MSRS|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Debug|x86.ActiveCfg = Debug|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Debug|x86.Build.0 = Debug|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.MSRS Debug|x86.ActiveCfg = MSRS Debug|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.MSRS Debug|x86.Build.0 = MSRS Debug|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Release MSRS|x86.ActiveCfg = Release MSRS|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Release MSRS|x86.Build.0 = Release MSRS|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Release|x86.ActiveCfg = Release|x86
+		{37A555DF-7012-4B99-8A47-1C922A361E52}.Release|x86.Build.0 = Release|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Debug MSRS|x86.ActiveCfg = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Debug MSRS|x86.Build.0 = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Debug|x86.ActiveCfg = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Debug|x86.Build.0 = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.MSRS Debug|x86.ActiveCfg = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.MSRS Debug|x86.Build.0 = Debug|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Release MSRS|x86.ActiveCfg = Release|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Release MSRS|x86.Build.0 = Release|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Release|x86.ActiveCfg = Release|x86
+		{27C68E4E-72F5-425F-9668-E74C4B8995EB}.Release|x86.Build.0 = Release|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Debug MSRS|x86.ActiveCfg = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Debug MSRS|x86.Build.0 = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Debug|x86.ActiveCfg = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Debug|x86.Build.0 = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.MSRS Debug|x86.ActiveCfg = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.MSRS Debug|x86.Build.0 = Debug|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Release MSRS|x86.ActiveCfg = Release|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Release MSRS|x86.Build.0 = Release|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Release|x86.ActiveCfg = Release|x86
+		{48223EAB-B2E0-4A64-9074-4444662EB693}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

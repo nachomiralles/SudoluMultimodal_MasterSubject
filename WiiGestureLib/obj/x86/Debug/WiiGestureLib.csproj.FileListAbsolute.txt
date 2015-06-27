@@ -1,0 +1,7 @@
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\bin\x86\Debug\WiiGestureLib.dll
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\bin\x86\Debug\WiiGestureLib.pdb
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\bin\x86\Debug\WiimoteLib.dll
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\bin\x86\Debug\WiimoteLib.pdb
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\obj\x86\Debug\WiiGestureLib.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\obj\x86\Debug\WiiGestureLib.dll
+C:\Users\Nacho\Desktop\SudokuMultimodal\WiiGestureLib\obj\x86\Debug\WiiGestureLib.pdb
