@@ -100,7 +100,7 @@ namespace SudokuMultimodal
         {
             temp = new System.Timers.Timer();
             temp.Elapsed += new ElapsedEventHandler(temp_Elapsed);
-            temp.Interval = 1150;
+            temp.Interval = 1000;
             temp.Enabled = false;
 
             m_analyzer = new InkAnalyzer();
